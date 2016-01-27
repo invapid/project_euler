@@ -17,4 +17,4 @@ while sum(f) < 4000000:
 		total += nextitem
 	f = [f[1], nextitem]
 
-print total
+print total # 4613732
